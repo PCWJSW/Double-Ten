@@ -4,6 +4,10 @@
     "pages/logs/logs",
     "pages/setting/setting"
   ],
+  
+  
+  
+  
   "window": {
     "backgroundTextStyle": "light",
     "navigationBarBackgroundColor": "#3197ed",
