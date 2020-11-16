@@ -42,6 +42,9 @@ Page({
     let timerType = e.target.dataset.type
     let showTime = this.data[timerType + 'Time']
     let keepTime = showTime * 60 * 1000
+    
+    
+    
     let logName = this.logName || defaultLogName[timerType]
 
     if (!isRuning) {
