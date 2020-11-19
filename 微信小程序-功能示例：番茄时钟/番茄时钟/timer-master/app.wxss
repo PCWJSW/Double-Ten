@@ -54,6 +54,8 @@ button {
 	height: 100%;
 }
 
+
+
 .nodata_img{
 	display: block;
 	width: 45px;
